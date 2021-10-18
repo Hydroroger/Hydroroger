@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hydroroger
 - 👀 I’m interested in c++, python, and minecraft!
-- 🌱 I’m currently learning c++, Python, Java
+- 🌱 I’m currently learning c++ and Python
 - 💞️ I’m looking to collaborate on anything c++ or python 
-- 📫 How to reach me idk 
 
 <!---
 Hydroroger/Hydroroger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
